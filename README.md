@@ -6,3 +6,5 @@ An ongoing collection of resources for making things on the internet (and other 
 [Schick Toikka](https://www.schick-toikka.com/)  
 [Swiss Typefacs](https://www.swisstypefaces.com/)  
 
+## Good Reads
+[Other Web by Pavel Kedich](https://kedzich.com/)
